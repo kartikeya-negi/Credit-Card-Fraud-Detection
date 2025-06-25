@@ -1,5 +1,5 @@
 # Credit-Card-Fraud-Detection
-
+- The project is live here https://credit-card-fraud-detection-cc.streamlit.app/
 
 ## Repository Details
 
